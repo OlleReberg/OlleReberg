@@ -2,19 +2,19 @@
 My name is Olle and I am a Game Programming student at Forsbergs.\
 \
 \
-I've studied ✅:\
-- C# with Unity\
--    * Basics and intermidiate\
-- Algorithms and datastructures\
-- Mobile development\
-- Asynchronous programming\
-- Network programming\
-- Blueprints in Unreal 5\
-- Shaders in Unreal 5\
-- Replication in Unreal 5\
+I've studied ✅:
+- C# with Unity
+-    * Basics and intermidiate
+- Algorithms and datastructures
+- Mobile development
+- Asynchronous programming
+- Network programming
+- Blueprints in Unreal 5
+- Shaders in Unreal 5
+- Replication in Unreal 5
 \
 I'm currently studying 📘:\
-- C++ with Unreal 5\
+- C++ with Unreal 5
 \
 Relevant work experience\
 - I worked for 4 years at Kialo inc, seeing its website Kialo.com through from alpha state to full launch, where I was responsible for leading teams developing content, as well as write/update internal and external documentation\
