@@ -18,8 +18,8 @@ I'm currently studying 📘:\
 \
 Relevant work experience\
 - I worked for 4 years at Kialo inc, seeing its website Kialo.com through from alpha state to full launch, where I was responsible for leading teams developing content, as well as write/update internal and external documentation\
-- \
-Fun facts about me ⚡:\
+\
+Fun facts about me ⚡:
 - I used to compete in debating and participated both as a judge and as a debater(not at the same time though) at the european and world championships.\
 - In my free time I enjoy playing football, piano/guitar, and the occasional D&D campaign. I also of course, love playing video games.\
 \
