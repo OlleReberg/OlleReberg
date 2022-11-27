@@ -24,9 +24,10 @@ Fun facts about me ⚡:\
 - In my free time I enjoy playing football, piano/guitar, and the occasional D&D campaign. I also of course, love playing video games.\
 \
 Do not hesitate to get in contact with me!\
+\
 <a href="https://ollereberg.wixsite.com/ollereberg/" target="_blank">Portfolio</a>\
 <a href="https://www.linkedin.com/in/olle-reberg/" target="_blank">LinkedIn</a>\
-<a href="ollereberg@hotmail.com/" target="_blank">Email</a>\
+<a href="ollereberg@hotmail.com/" target="_blank">Email</a>
 <!--
 **OlleReberg/OlleReberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
