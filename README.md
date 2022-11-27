@@ -1,10 +1,11 @@
 ### Hi there 👋
-My name is Olle and I am a Game Programming student at Forsbergs.
-It would be really cool if you checked out my portfolio at https://ollereberg.wixsite.com/ollereberg!
-I've studied ✅:
-C# with Unity
-    * Basics and intermidiate
-Algorithms and datastructures
+My name is Olle and I am a Game Programming student at Forsbergs.\
+\
+\
+I've studied ✅:\
+C# with Unity\
+    * Basics and intermidiate\
+Algorithms and datastructures\
 Mobile development
 Asynchronous programming
 Network programming
